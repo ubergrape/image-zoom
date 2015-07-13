@@ -21,13 +21,13 @@
     "component-delegate": "^0.2.3",
     "component-emitter": "^1.1.3",
     "component-events": "^1.0.9",
-    "has-translate3d": "ubergrape/has-translate3d#0.0.3",
+    "has-translate3d": "ubergrape/has-translate3d",
     "next-tick": "git://github.com/timoxley/next-tick",
-    "overlay": "ubergrape/overlay#2.0.1",
-    "redraw": "ubergrape/redraw#0.0.1",
-    "scale-to-bounds": "ubergrape/scale-to-bounds#0.0.1",
+    "overlay": "ubergrape/overlay",
+    "redraw": "ubergrape/redraw",
+    "scale-to-bounds": "ubergrape/scale-to-bounds",
     "transform-property": "ubergrape/transform-property",
-    "viewport": "ubergrape/viewport#1.0.0"
+    "viewport": "ubergrape/viewport"
   },
   "browser": {
     "delegate": "component-delegate",
