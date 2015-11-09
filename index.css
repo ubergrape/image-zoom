@@ -9,6 +9,7 @@
   cursor: -moz-zoom-out;
   cursor: -ms-zoom-out;
   cursor: zoom-out;
+  image-orientation: from-image;
 }
 
 .Overlay.image-zoom-overlay {
